@@ -3,7 +3,7 @@ name = "SigmaOS-emacs-config-file"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emacs-config-file component"
+description = "SigmaOS component SigmaOS-emacs-config-file"
 upstream = []
 
 [contract]
